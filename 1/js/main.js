@@ -28,3 +28,4 @@ mainList.shopGoods[i] = prompt("Какой тип товаров будем пр
 i++;
 mainList.shopGoods[i] = prompt("Какой тип товаров будем продавать?");
 i++;
+document.write(answer1);
